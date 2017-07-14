@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/gitchs/torrent2magnet",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/jackpal/bencode-go",
+			"Rev": "8b8d9a9b37fcd43f365439810d725081b114af68"
+		},
+		{
+			"ImportPath": "github.com/pkg/errors",
+			"Comment": "v0.8.0-4-gff09b13",
+			"Rev": "ff09b135c25aae272398c51a07235b90a75aa4f0"
+		}
+	]
+}
